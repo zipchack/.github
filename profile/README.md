@@ -12,6 +12,17 @@
 
 # Zipchack
 
+<details>
+  <summary><strong>&nbsp;Table of Contents</strong></summary>
+
+&nbsp;  
+[1. 팀 소개](#1.-팀-소개-👨‍👦‍👦  )<br/>
+[2. 프로젝트 소개](#2.-프로젝트-소개-💒 )<br/>
+[3. 주요 기능](#3.-주요-기능-💻)<br/>
+[4. 참고자료](#4.-참고자료-⭐)<br/>
+
+</details>
+
 ## 🏠 마음에 드는 집에 착! 집착 서비스 
 
 ![이미지](sample-1.gif)
